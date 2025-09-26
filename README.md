@@ -1,2 +1,3 @@
 sup, i do some things like random stuff idk?
 i also like windows btw
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izhank216&hide=contribs,prs)
